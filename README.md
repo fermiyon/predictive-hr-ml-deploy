@@ -33,7 +33,7 @@ The model is deployed using Streamlit for easy access and interaction.
 Once predicted, Streamlit sends the relevant data to the OpenAI API for churn analysis. The resulting analysis report can be conveniently downloaded in PDF format.
 
 ## Dataset
-- `HR_Dataset.csv`: The main dataset used for the analysis.
+- `HR_Dataset.csv`: The main dataset used for the project.
 
 ## Notebooks
 - `Churn Prediction_Student_Notebook_V3.ipynb`: Jupyter notebook containing the exploratory data analysis, preprocessing, and model building for churn prediction.
