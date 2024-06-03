@@ -19,6 +19,8 @@ A range of models were evaluated for predicting employee churn:
 - **Boosting Algorithms**: Catboost, XGBoost, and LightGBM.
 - **Deep Learning**: DL-ANN with TensorFlow.
 
+![screenshot](models-comparison.png)
+
 The **Catboost** model was chosen for its excellent performance at the end. It demonstrated robust performance with the following metrics for class 1:
 - **Precision**: 0.98
 - **Recall**: 0.93
@@ -36,12 +38,12 @@ Once predicted, Streamlit sends the relevant data to the OpenAI API for churn an
 
 ## Models
 - `emp_churn_final_model`: The final model used for predicting employee churn.
-- `scaler_churn`: Scaler file for data normalization.
-- `transformer_churn`: Transformer file for feature engineering.
+- `scaler_churn`: Scaler file.
+- `transformer_churn`: Transformer file.
 
 ## Analysis Reports
 - `employee_churn_2023-06-19_00-29-16.pdf`
-- `employee_churn_2023-06-19_00-31-32.pdf`: PDF reports of the analysis.
+- `employee_churn_2023-06-19_00-31-32.pdf`: PDF reports of the analysis
 
 ## Requirements
 
