@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-blue)
 
-This project was developed by Selman Karaosmanoglu in collaboration with Group 2 of the Data Science cohort. 
+This project was developed by Selman Karaosmanoglu in collaboration with the Group 2 of the Data Science cohort of Clarusway Data Science School. 
 
 Special thanks to all group members whose contributions have been invaluable to the project's success.
 
