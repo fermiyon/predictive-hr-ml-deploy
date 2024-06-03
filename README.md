@@ -1,6 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-blue)
 
-By Selman Karaosmanoglu
+This project was developed by Selman Karaosmanoglu in collaboration with Group 2 of the Data Science cohort. 
+
+Special thanks to all group members whose contributions have been invaluable to the project's success.
 
 ## Date created
 07 July 2023
