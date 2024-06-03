@@ -3,7 +3,7 @@
 By Selman Karaosmanoglu
 
 ## Date created
-07 July 2022
+07 July 2023
 
 # Employee Churn Prediction Project
 ### Building a model to predict whether an employee is churned or not
